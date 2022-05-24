@@ -1,1 +1,1 @@
-# microservice
+# microservice still a work in progress, activates when scores.txt meets isnumeric requirement, (ex "60"). Right now it only writes a static output ("30 120 180") to replicate the dynamic sorted output that will be written to the scores.txt file based on the scores that are recorded.
